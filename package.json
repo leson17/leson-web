@@ -1,0 +1,19 @@
+{
+  "name": "leson-web",
+  "version": "1.0.0",
+  "description": "前台项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leson17/leson-web.git"
+  },
+  "author": "leson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leson17/leson-web/issues"
+  },
+  "homepage": "https://github.com/leson17/leson-web#readme"
+}
